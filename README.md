@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CatMac
 - 👀 I’m interested in testing, yoga and the great outdoors
 - 🌱 I’m currently learning deeper testing, coding and tikanga and yoga teaching
-- 💞️ I’m looking to collaborate on how to beat test for you
+- 💞️ I’m looking to collaborate on how to best test for you
 - 📫 How to reach me Slack, Basecamp or GitHub
 
 <!---
